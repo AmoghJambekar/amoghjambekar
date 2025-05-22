@@ -12,10 +12,7 @@ Most of my work lives in private repositories, but I'd love to connect about any
 
 Thanks for stopping by!
 
-<div align="center">
 
 ![AmoghJambekar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmoghJambekar&theme=dark&hide_border=false)  
-
-</div>
 
 
