@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**AmoghJambekar/amoghjambekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Amogh** and I am first-year student at **Northeastern University** studying **Computer Engineering**.  
+Most of my work lives in private repositories, but I'd love to connect about anything.
 
-Here are some ideas to get you started:
+📫 Feel free to reach out: **amoghjambekar25@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+- 🌐 (Website Soon)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amoghjambekar)
+
+Thanks for stopping by!
+
