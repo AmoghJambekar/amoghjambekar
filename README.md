@@ -7,7 +7,7 @@ Most of my work lives in private repositories, but I'd love to connect about any
 
 
 ### Connect with me:
-- 🌐 [Website Soon](https://amoghj.netlify.app/)
+- 🌐 [Website](https://amoghj.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/amoghjambekar)
 
 Thanks for stopping by!
