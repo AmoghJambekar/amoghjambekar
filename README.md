@@ -1,9 +1,9 @@
 ## Hello 👋
 
 I'm **Amogh** and I am a first-year student at **Northeastern University** studying **Computer Engineering**.  
-Most of my work lives in private repositories, but I'd love to connect about anything.
+A lot of what I do is currently in a private repo! Reach out if you have any specific questions.
 
-📫 Feel free to reach out: **amoghjambekar25@gmail.com**
+📫 Feel free to reach out: **amoghjambekar45@gmail.com OR jambekar.a@northeastern.edu**
 
 
 ### Connect with me:
