@@ -1,6 +1,6 @@
 ## Hi, I'm Amogh 👋
 
-I'm am a first-year student at **Northeastern University** studying **Computer Engineering**.  
+I'm a student at **Northeastern University** studying **Computer Engineering**.  
 
 📫 Feel free to reach out: **jambekar.a@northeastern.edu** OR **amoghjambekar45@gmail.com**
 
